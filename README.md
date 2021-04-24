@@ -23,10 +23,10 @@ All assignments done as a part of the subject Information Retrieval (CSE645)
   <li>
     Implementation of various evaluation measures:
     <ul>
-      <li>Calculate recall and precision values for all relevant documents and draw precision VS Recall Curve. Also calculate R-precision.</li>
-      <li>Compare performance of two IR algorithms for the same query q. C.  Compare performance of two IR algorithms for the same query q</li>
+      <li>Calculate recall and precision values for all relevant documents and draw precision VS Recall Curve. Also calculate R-precision</li>
+      <li>Compare performance of two IR algorithms for the same query q</li>
       <li>Calculate harmonic mean and E- measure (All three cases b=1, b&gt;1, b&lt;1)</li>
-      <li>Compare performance of two IR algorithms for the same query q.</li>
+      <li>Compare performance of two IR algorithms for the same query q</li>
     </ul>
   </li>
  </ol>
